@@ -14,15 +14,9 @@
 - 디렉토리 안에 git이 관리하는 변경 이력이 다 담겨있음
 - 저장소라고 부름 (= git 저장소)
 - `git init` : 일반 폴더를 깃 저장소로 만들어줌 → .git이라는 폴더가 생성됨
-- Git이 관리하는 저장소의 기본 브랜치가 master일 경우 main으로 변경할 수 있다
+- Git이 관리하는 저장소의 기본 브랜치가 master일 경우 main으로 변경해기
 
 ```
-# git init 명령으로 생성된 저장소의 기본 브랜치가 master일 때 main으로 브랜치명을 변경
-git branch -m main
-
-# git init 명령으로 Git 저장소를 초기화 시킬 때 브랜치가 main이 되도록 설정
-git init -b main
-
 # 로컬 환경에서 git init 명령을 통해 Git 저장소를 초기화하면 기본 브랜치가 main이 되도록 설정 
 git config --global init.defaultBranch main
 ```
