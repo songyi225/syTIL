@@ -27,6 +27,9 @@
 * [240430 :: CSS의 역사와 기본 구조](./CSS/240430_CSS_basic.md)
 * [240502 :: CSS agent style](./CSS/240502_CSS_%20AgentStyle.md)
 * [240502 :: CSS 실습 1](./CSS/240502_CSS_Practice01.md)
+  * 기본 박스 모델, flex 박스 모델 기초, display 속성
+* [240503 :: CSS 실습 2](./CSS/240503_CSS_Practice02.md)
+  * box-sizing 속성, float와 flex, position 속성, 의사 클래스 및 의사 요소
 
 ### JavaScript
 
