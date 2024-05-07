@@ -4,7 +4,7 @@
 - content-box (Default) : 지정한 width, height, padding, border값이 그대로 보여짐
 - border-box : 지정한 width 값 안에 padding, border가 포함됨
 
-```
+```css
 div {
   width: 160px;
   height: 80px;

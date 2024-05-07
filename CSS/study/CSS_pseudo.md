@@ -28,7 +28,7 @@
 - :not
 - :lang
 
-### 의사 요소 (pseudo-element)
+### :cloud: 의사 요소 (pseudo-element)
 
 하나의 선택자에 하나의 의사 요소만 지정할 수 있다.
 ```
